@@ -8,5 +8,5 @@
 - 📫 Email: akshitbhalla2@gmail.com
 - 👀 LinkedIn: https://www.linkedin.com/in/akshit-bhalla
 - ⓚ Kaggle: https://www.kaggle.com/bhallaakshit
-- 🇲 Medium: https://medium.com/@akshit.bhalla
+- 🇲 Medium: https://medium.com/@akshit-bhalla
 - ⚡ Fun fact: I hold a degree in Industrial Engineering and Management. 
