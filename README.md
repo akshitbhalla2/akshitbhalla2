@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Software Engineer in Bangalore/Pune.
+- 🔭 I’m currently working as a Data Scientist at HP Inc., Bangalore.
 - 🌱 I’m currently learning Data Science and Machine Learning, building Data Products and Business Decision Making.
 - 👯 I’m looking to collaborate on AI Projects.
 - 🤔 I’m looking for help with GCP/AWS Services.
