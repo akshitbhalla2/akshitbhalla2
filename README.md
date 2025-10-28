@@ -6,6 +6,6 @@
 - 🌱 Learning Machine Learning + Data Product Development.
 - 👯 I’m looking to collaborate on AI Projects.
 - 📫 Email: akshitbhalla2@gmail.com
-- 👀 LinkedIn: https://www.linkedin.com/in/akshit-bhalla
+- 👀 LinkedIn: https://www.linkedin.com/in/akshitbhalla2
 - ⓚ Kaggle: https://www.kaggle.com/bhallaakshit
 - 🇲 Medium: https://medium.com/@akshit-bhalla
